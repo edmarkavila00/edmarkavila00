@@ -1,146 +1,83 @@
-<div align="center">
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Edmark Lupiga</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:064e3b,100:00c853&height=200&section=header&text=Edmark%20Lupiga&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=IT%20Student%20%7C%20Developer%20in%20Progress&descAlignY=60&descSize=16" width="100%" />
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=00C853&center=true&vCenter=true&width=600&lines=Welcome+to+my+digital+space;Learning.+Building.+Improving.;Databases+%7C+Data+Analytics+%7C+Development" />
+## 📌 About Me
+- 💡 Hands on experience in customer service, computer troubleshooting, and technical operations. Skilled in Microsoft Office, Google Workspace, and hardware/software support. Strong communication and problemsolving abilities, seeking an internship opportunity to apply technical knowledge and customer - focused skills in a professional environment.
 
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-Explore%20My%20Work-00c853?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![Spotify](https://img.shields.io/badge/Spotify-Listen%20With%20Me-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2FyBAX6JFo7hC5i19qfmV1)
-
-</div>
-
----
-
-## 👨‍💻 `$ whoami`
-
-Hi! I'm **Edmark**, an Information Technology student at
-**Pamantasan ng Lungsod ng Muntinlupa (PLMUN)**.
-
-I'm passionate about technology, building useful applications,
-working with data, and continuously improving my skills.
-
-- 🎓 IT Student
-- 🗄️ Interested in Database Engineering
-- 📊 Exploring Data Analytics and Data Mining
-- 💻 Building applications and web projects
-- 🌱 Learning SQL, Python, and software development
-- 🎯 Turning ideas into practical solutions
-
-> `Curiosity → Learning → Building → Improving`
-
----
-
-## 🎧 `$ now-playing`
-
-<div align="center">
-
-### E D M A R K ' S  F R E Q U E N C Y
-
-*A little music while you explore my code.*
-
-<a href="https://open.spotify.com/playlist/2FyBAX6JFo7hC5i19qfmV1">
-<img src="https://img.shields.io/badge/▶%20PLAY%20MY%20PLAYLIST-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Play my Spotify playlist" />
-</a>
-
-<br/><br/>
-
-<a href="https://open.spotify.com/playlist/2FyBAX6JFo7hC5i19qfmV1">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=default&show_offline=false&background_color=0a0f1e&interchange=false&bar_color=00c853&bar_color_cover=false" width="320" alt="Spotify profile card" />
-</a>
-
-*Click above to listen on Spotify 🎶*
-
-</div>
-
----
-
-## 🛠️ `$ tech-stack`
-
+## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,java,kotlin,html,css,js,mysql,sqlite,git,github,vscode,androidstudio&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=edmarkavila00&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="edmarkavila00's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=edmarkavila00&theme=nightowl&hide_border=true&cache_seconds=86400" alt="edmarkavila00's GitHub Streak" width="49%" />
 </p>
 
 <p align="center">
-  ![SQL](https://img.shields.io/badge/SQL-Database-00c853?style=flat-square)
-  ![Excel](https://img.shields.io/badge/Excel-Analytics-217346?style=flat-square)
-  ![Weka](https://img.shields.io/badge/Weka-Data%20Mining-111827?style=flat-square)
-  ![RapidMiner](https://img.shields.io/badge/RapidMiner-Analytics-111827?style=flat-square)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edmarkavila00&layout=compact&theme=nightowl&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=edmarkavila00&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Edmark Lupiga's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=edmarkavila00&theme=nightowl&radius=10" alt="edmarkavila00's Activity Graph" />
 </p>
 
----
+## 🛠️ Languages & Tools
 
-## 🚀 `$ featured-projects`
+> ## Programming Languages
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" style="margin: 4px;" /></p>
 
-### 🎯 GoalPath
-A goal and step-tracking Android application designed to help
-users organize goals into manageable actions.
+> ## Frontend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48" style="margin: 4px;" /></p>
 
-`Kotlin` `Jetpack Compose` `Room Database`
+> ## Backend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48" style="margin: 4px;" /></p>
 
-[View my repositories →](https://github.com/YOUR_USERNAME?tab=repositories)
+> ## Database
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="48" height="48" style="margin: 4px;" /></p>
 
-### 🔢 QuickheX
-A number-base conversion project exploring hexadecimal
-and other numeral systems.
+> ## DevOps & Cloud
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="48" height="48" style="margin: 4px;" /></p>
 
-`Android` `Number Systems` `UI Design`
+> ## Tools
+<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
 
-[View my repositories →](https://github.com/YOUR_USERNAME?tab=repositories)
+## 🔗 Connect with Me
+<p align="center"><a href="https://www.linkedin.com/in/your-handle" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:edmarkavila25@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
-### 📊 Data Mining & Analytics
-Academic exercises involving data preparation, classification,
-clustering, association rules, and correlation analysis.
-
-`Weka` `RapidMiner` `Excel`
-
-[Explore my projects →](https://github.com/YOUR_USERNAME?tab=repositories)
-
-### 🌐 Web Development
-Web development projects focused on useful features,
-clean interfaces, and database integration.
-
-`PHP` `HTML` `CSS` `JavaScript` `MySQL`
-
-[Explore my projects →](https://github.com/YOUR_USERNAME?tab=repositories)
-
----
-
-## 📈 `$ github-stats`
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0a0f1e&title_color=00c853&icon_color=00c853&text_color=e5e7eb" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0a0f1e&title_color=00c853&text_color=e5e7eb" />
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=0A0F1E&ring=00C853&fire=00C853&currStreakLabel=00C853" width="70%" />
-
+  <!---->
 </div>
 
----
+<p align="center"><sub>Edmark Lupiga · <a href="https://www.gitskins.com/readme-generator?template=community-creative-dev-rt3x">creative dev</a> template by <a href="https://www.gitskins.com/creators/himanshu201031">@himanshu201031</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
 
-## 🌱 `$ currently-learning`
+## Experience
 
-- SQL and relational database design
-- Python programming and scripting
-- Data cleaning and analysis
-- Software development best practices
-- UI/UX design and usability
+**Salmon Philippines — Sales Ambassador** · Jun 2026 – Jul 2026
+- Promoted Salmon loan products by clearly explaining benefits to customers.
+- Assisted customers with loan applications by guiding them through ID verification, eligibility checks, and ensuring smooth processing at partner stores.
 
----
+**Lancafe Computer Shop — Computer Shop Attendant** · Nov 2023 – Jan 2025
+- Assisted customers with PC troubleshooting, software installation, and internet services.
+- Maintained shop equipment and supported 20+ daily users.
+- Managed daytoday shop operations, including scheduling, customer flow, and service quality.
 
-## 🤝 `$ connect`
+**Vivo Smartphones — Product Expert** · Jan 2023 – Mar 2023
+- Promoted smartphone features to customers, improving product awareness and driving sales.
+- Delivered technical demonstrations and guided buyers in device setup.
+- Achieved daily/weekly sales targets by actively engaging customers and recommending suitable models.
 
-<div align="center">
+**ShinEtsu Magnetics Philippines — Production Operation / Material Handler** · Jul 2019 – Sept 2022
+- Handled materials and supported production line operations while ensuring compliance with safety and efficiency standards.
+- Encoded received products into the system for accurate inventory tracking and verification.
+- Assisted in monitoring stock levels and coordinated with team members to maintain smooth workflow.
 
-[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=00c853)](https://github.com/YOUR_USERNAME)
+**Education**
 
-**Thanks for visiting my corner of GitHub!**
-
-*Keep learning. Keep building. Keep growing.* ✨
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c853,50:064e3b,100:0a0f1e&height=100&section=footer" width="100%" />
-
-</div>
+- BS Information Technology — Pamantasan ng Lungsod ng Muntinlupa (2022 – 2026)
+- Senior High, Humanities &amp; Social Science — Santa Maria Integrated High School (2016 – 2018)
